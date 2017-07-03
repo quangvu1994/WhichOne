@@ -1,0 +1,6 @@
+framework module Pods_Which_one {
+  umbrella header "Pods-Which one-umbrella.h"
+
+  export *
+  module * { export * }
+}
